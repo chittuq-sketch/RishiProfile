@@ -1,5 +1,4 @@
 # 👨‍🎓 Rishi Babu
-
 **Aspiring Automotive & Mechanical Engineer**  
 🎓 University of Melbourne (BSc → Master of Engineering) • ATAR 95.45 • Founder @ Crystal Clear Details • Melbourne, Australia
 

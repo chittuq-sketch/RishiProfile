@@ -1,8 +1,5 @@
 # 👨‍🎓 Rishi Babu
 
-![Rishi Babu](rishibabu-photo.jpg)  
-*📸 Upload your photo as `rishibabu-photo.jpg` (or use `screenshot.jpeg` and change the line below to `![Rishi Babu](screenshot.jpeg)`)*
-
 **Aspiring Automotive & Mechanical Engineer**  
 🎓 University of Melbourne (BSc → Master of Engineering) • ATAR 95.45 • Founder @ Crystal Clear Details • Melbourne, Australia
 
